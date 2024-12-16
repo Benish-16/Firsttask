@@ -1,0 +1,101 @@
+#cont1{
+    background-color: black;
+  margin-top:150px;
+  padding-bottom:17px;
+  margin-left:140px;
+ 
+  margin-right:150px;
+padding-left:40px;
+padding-right:50px;
+justify-items: center;
+  height:auto;
+  width:auto;
+  border-radius: 25px; 
+color:white;
+padding:5px;
+
+}
+#h{
+  color:ivory;
+  text-align: center;
+  size:20px;
+  animation:fadeIn 9s ease forwards;
+  
+}
+#b1{
+    background-color: black;
+  color:white;
+  background-image:url(currency2.avif);
+  font-size:20px;
+
+}
+#cont2 {
+    display: flexbox;
+}
+#select1,#select2,#select3{
+    height: auto;
+    outline:none;
+    padding:auto;
+    border:none;
+    width:auto;
+}
+#in3 {
+ 
+    font-variant-numeric: tabular-nums; 
+    letter-spacing: 0.25ch; 
+     
+    overflow-x: hidden;
+  
+    white-space: nowrap; 
+
+    border:none;
+    outline:none;
+  height:auto;
+  overflow-x: hidden;
+  margin-top: 0px;
+  width:auto;
+    
+   
+}
+
+
+#in4,#in5 {
+    
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.25ch; 
+  
+    overflow-x: hidden;
+    margin-top: 0px;
+    height:auto;
+    white-space: nowrap; 
+  
+    border:none;
+    outline:none;
+    display: inline-block;
+   width:auto;
+    height:auto;
+}
+
+#in3::-webkit-inner-spin-button, 
+#in3::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+
+}
+#in4::-webkit-inner-spin-button,
+#in4::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
+#in5::-webkit-inner-spin-button,
+#in5::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
+#box1,#box2,#box3{
+  margin-bottom:50px;
+  margin-top:20px;
+  background-color: white;
+  height:auto;
+  border: 2px solid black;
+width:auto;
+
+}
+
